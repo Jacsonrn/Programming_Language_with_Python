@@ -5,4 +5,3 @@ def calcular_fatoriais(m):
         print(f"{i}! = {fatorial}")
 m = int(input("Digite um número inteiro positivo:"))
 calcular_fatoriais(m)
-
