@@ -1,0 +1,7 @@
+nome = input()
+produto = input()
+quantidade = input()
+valor = input()
+print(f"Pedido confirmado: {produto}")
+print(f"Valor total: R$ {valor}")
+print("Obrigado pela preferência!")
